@@ -258,4 +258,6 @@ Hobbies        : Playing and watching basketball and football.<br/>
 ##  💬 Connect me at:
 📫 Mail: [iabhijeetkr92@gmail.com]  
 
+**LinkedIn QR** 
+![LinkedIn](LinkedInQR.PNG)
 
