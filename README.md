@@ -259,5 +259,5 @@ Hobbies        : Playing and watching basketball and football.<br/>
 📫 Mail: [iabhijeetkr92@gmail.com]  
 
 **LinkedIn QR** 
-![](LinkedInQR.PNG)
+![LinkedIn](LinkedInQR.PNG)
 
