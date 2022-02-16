@@ -5,7 +5,11 @@
 **Technical Consultant at Sonata Software Ltd.**<br/>
 **Previous Technical Analyst with Infosys Ltd.**<br/>
 
-**LinkedIn URL** : [Abhijeet](https://www.linkedin.com/in/abhijeet-kumar-091b0697)
+**LinkedIn URL** : [Abhijeet](https://www.linkedin.com/in/abhijeet-kumar-091b0697)<br>
+
+**LinkedIn Abhijeet QR**
+
+![LinkedIn](LinkedInQR.PNG)
 
 ##  OBJECTIVE
 Seeking for a challenging career to implement the skills being acquired, I would like to utilize knowledge
@@ -258,6 +262,4 @@ Hobbies        : Playing and watching basketball and football.<br/>
 ##  💬 Connect me at:
 📫 Mail: [iabhijeetkr92@gmail.com]  
 
-**LinkedIn QR** 
-![LinkedIn](LinkedInQR.PNG)
 
